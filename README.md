@@ -1,6 +1,6 @@
 # Use a Stacked Ensemble to predict Titanic passenger survival
 
-This repo contains steps and code to demonstrate how to build a Stacked Ensemble with scikit-learn on Watson Studio. The model will address the Titanic passenger survival dataset available at Kaggle
+This repo contains steps and code to demonstrate how to build a Stacked Ensemble with scikit-learn on Watson Studio. The model will address the Titanic passenger survival dataset available at [Kaggle](https://www.kaggle.com/c/titanic).
 
 Some familiarity with Python is helpful.
 
@@ -42,16 +42,20 @@ In Watson Studio we need to: create a project and  upload our notebook.
 
 * Click on the **From URL** tab, name the  notebook `Stacked Ensemble Titanic`
 
-*  Enter the following URL for the **Notebook URL**
+*  Copy and paste the following URL as the **Notebook URL**
 
-   https://raw.githubusercontent.com/djccarew/predictive-model-on-watson-ml/master/examples/exampleOutput.ipynb
+  https://raw.githubusercontent.com/ibm-ai-education/stacked-ensembles-demo/main/notebook/stacked-ensembles-demo.ipynb
+
+* Click **Create**
+
+   ![import notebook](images/ss3.png)
 
 
 ### 2. Create and test a Stacked Ensemble model with Watson Studio
 
 Now that we're in our Notebook editor, we can start to create our stacked ensemble model  by stepping through the notebook.
 
-![notebook viewer](doc/source/images/notebook-viewer.png)
+![notebook viewer](images/ss4.png)
 
 #### 2.1 Start stepping through the notebook
 
