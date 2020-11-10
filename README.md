@@ -6,8 +6,10 @@ Some familiarity with Python is helpful.
 
 ## Prerequisites
 
-* An [IBM Cloud Account](https://cloud.ibm.com)
-* An account on [IBM Watson Studio](https://dataplatform.cloud.ibm.com/).
+If you haven't already setup a free IBM Cloud acount and a free IBM Watson Studio account.
+
+* [IBM Cloud account](https://cloud.ibm.com)
+* [IBM Watson Studio account](https://dataplatform.cloud.ibm.com/)
 
 
 ## Steps
@@ -22,17 +24,17 @@ Some familiarity with Python is helpful.
 
 ### 1. Setup project in Watson Studio
 
-In Watson Studio we need to: create a project and  upload our notebook.
+In Watson Studio we need to create a project and upload our notebook.
 
 #### 1.1. Create a project in Watson Studio
 
 * Log into IBM's [Watson Studio](https://dataplatform.cloud.ibm.com). Once in, you'll end up on the landing page.
 
-* Create a new project by clicking `+ New project` :
+* Create a new project by clicking **New project +** :
 
    ![studio project](images/ss1.png)
 
-* Enter a name for the project name and click `Create`.
+* Enter a name for the project name and click **Create**.
 
 #### 1.2. Import the notebook into Watson Studio
 
